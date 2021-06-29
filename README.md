@@ -1,0 +1,5 @@
+- 🤓 @mjavor
+- 👾 Backend Developer
+- 🗣️ Php, Typescript, Python, Java
+- 🔧 Symfony, Doctrine, Express, Nest, TypeORM, Sequelize, Django, Spring Boot
+- 💭 Enthusiast of DDD, Hex Arch, Code testing
